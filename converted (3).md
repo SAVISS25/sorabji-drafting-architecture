@@ -174,7 +174,7 @@ Conflict resolution rule: when analyses diverged, patterns were classified by fr
 ## Component 4 — The Hedging and Assertion Map  
 *Purpose: prescribe exact modality per claim type with a decision rule.*
 
-| Claim type | Assertion/hedge ladder (strongest → strongest hedge) |
+| Claim type | Recommended wording (ordered strongest assertion → strongest hedge) |
 | --- | --- |
 | Doctrinal claim about existing law | “is” / “requires” / “established that” → “appears to require” → “may require” |
 | Normative claim about what law should be | “must” / “ought to” / “essential that” → “should” → “may need to” |
@@ -182,14 +182,20 @@ Conflict resolution rule: when analyses diverged, patterns were classified by fr
 | Historical claim about reform trajectory | “has consistently” / “has repeatedly” → “has often” → “at times” / “occasionally” |
 | Constitutional/systemic obligation claim | “is a constitutional requirement” / “paramount” / “non-negotiable” → “fundamentally important” → “important consideration” |
 
-Decision rule: if uncertain which modality applies, default to the **middle hedge** for that claim type (“appears to / should / studies suggest / has often / fundamentally important”), then escalate to stronger assertion only when two or more named authorities or data points are cited; downgrade to strongest hedge when evidence is incomplete.
+Decision rule:
+- If uncertain, default to the **middle hedge** for that claim type (“appears to / should / studies suggest / has often / fundamentally important”).  
+- Escalate to the strongest assertion only when two or more named authorities or data points are cited.  
+- Downgrade to the strongest hedge when evidence is incomplete or authority is qualified.  
+- Move toward the **start** of each wording list to strengthen assertion; move toward the **end** to increase hedging.
 
 ---
 
 ## Component 5 — The Vocabulary Register Guide  
 *Purpose: enforce Sorabji’s structural lexicon and exclude incompatible register.*
 
-### List One — Structural vocabulary (≥20 items; all verified tendencies)
+Review List Two (Incompatible Register) first to clear excluded terms; then apply List One (Required Structural Vocabulary) when drafting.
+
+### Required Structural Vocabulary (List One; ≥20 items; all verified tendencies)
 1. “overriding objective” — move: anchor to governing rule; example: CPR reference; rule: use when tying reform to procedure.  
 2. “precondition” — move: gate future action; example: funding chapter; rule: use before proposing reform step.  
 3. “design obligation” — move: convert choice to duty; rule: pair with principle.  
@@ -215,7 +221,7 @@ Decision rule: if uncertain which modality applies, default to the **middle hedg
 23. “must be consistent with” — move: design constraint; rule: use in conclusions.  
 24. “raises two distinct issues” — move: binary split; rule: use to signal paired analysis.  
 
-### List Two — Incompatible with register (≥10; give replacement)
+### Incompatible Register (List Two — clear first; ≥10 items)
 1. “game-changer” — too colloquial; replace with “significant development.”  
 2. “massive” — imprecise; replace with “substantial” or “material.”  
 3. “basically” — informal filler; replace with “in essence.”  
@@ -295,6 +301,7 @@ Decision rule: if uncertain which modality applies, default to the **middle hedg
 4. **Escalation**: each subsequent section must strengthen the thread by adding (a) broader scope, (b) stronger modality, or (c) tighter design rule.  
 5. **Conclusion**: single crystallising sentence: “Because \[\[Concept\]\] secures \[\[Value\]\], any future step must \[\[Design Constraint\]\].”
 
+Note how each opening references the thread explicitly, and each closing states a specific cost of violating it with escalating force across sections.  
 Worked example (concept: **open justice as participation guarantee**) across five sections:  
 - Section 1 opening: “In defining the problem, the golden thread requires public participation as the baseline.”  
 - Section 1 closing: “Without participation, efficiency claims lack legitimacy.”  
@@ -312,7 +319,7 @@ Worked example (concept: **open justice as participation guarantee**) across fiv
 *Purpose: 3-minute, yes/no enforcement per paragraph.*
 
 ### Section A — Architecture (5 items)
-1. Does the paragraph use an approved opening (timeline/definition/necessity/binary question)?  
+1. Does the paragraph use an approved opening (timeline/definition/necessity/binary question — see Component 2)?  
 2. Is the claim-evidence-application ratio within Sorabji bounds (claim ≥50%, evidence 20–35%, application 10–20%)?  
 3. Is the paragraph’s closing move one of the approved closures (question hook/triad/consequence/constraint)?  
 4. Is the counter-argument, if present, placed before the pivot to constitutional necessity?  
